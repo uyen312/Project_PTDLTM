@@ -18,9 +18,9 @@
 
 ## Hướng dẫn chạy trên Google Colab
 
-Bước 1: Mở [Google Colab](https://colab.research.google.com)
+**Bước 1: Mở [Google Colab](https://colab.research.google.com)**
 
-Bước 2: Tải lên file data_preprocessing.ipynb
+**Bước 2: Tải lên file data_preprocessing.ipynb**
 
 - Chạy từng cell trong notebook theo thứ tự.
 
@@ -30,7 +30,7 @@ Bước 2: Tải lên file data_preprocessing.ipynb
 
 - Sau khi chạy, 2 file kết quả (dataset_clean_csv và test_clean.csv) sẽ được lưu tại đường dẫn: /content/drive/MyDrive/PTDLTM_NguHanh/
 
-Bước 3: Tải lên file exploratory_data_analysis.ipynb
+**Bước 3: Tải lên file exploratory_data_analysis.ipynb**
 
 - Chạy từng cell trong notebook theo thứ tự.
 
