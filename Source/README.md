@@ -40,4 +40,4 @@
 
 - Notebook sẽ tự đọc lại file đã xử lý từ Drive để phân tích và trực quan hóa.
 
-*Ghi chú:* Nếu thư mục /content/drive/MyDrive/PTDLTM_NguHanhg/ chưa tồn tại, notebook sẽ tự động tạo.
+*Ghi chú:* Nếu thư mục /content/drive/MyDrive/PTDLTM_NguHanh/ chưa tồn tại, notebook sẽ tự động tạo.
