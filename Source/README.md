@@ -26,7 +26,7 @@
 
 - Ở cell code cuối cùng có phần yêu cầu mount Google Drive.
 
-- Khi được yêu cầu truy cập, chọn kết nối với Google Drive và chọn tài khoản Google Drive của bạn, thực hiện các thao tác cho phép truy cập.
+- Khi được yêu cầu truy cập, chọn kết nối với Google Drive và chọn tài khoản Google Drive của bạn, sau đó thực hiện các thao tác cho phép truy cập.
 
 - Sau khi chạy, 2 file kết quả (dataset_clean_csv và test_clean.csv) sẽ được lưu tại đường dẫn: /content/drive/MyDrive/PTDLTM_NguHanh/
 
@@ -36,7 +36,7 @@
 
 - Ở cell code thứ hai có phần yêu cầu mount Google Drive.
 
-- Khi được yêu cầu truy cập, chọn kết nối với Google Drive và chọn tài khoản Google Drive của bạn, thực hiện các thao tác cho phép truy cập.
+- Khi được yêu cầu truy cập, chọn kết nối với Google Drive và chọn tài khoản Google Drive của bạn, sau đó thực hiện các thao tác cho phép truy cập.
 
 - Notebook sẽ tự đọc lại file đã xử lý từ Drive để phân tích và trực quan hóa.
 
