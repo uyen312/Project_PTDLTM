@@ -18,7 +18,7 @@
 
 ## Hướng dẫn chạy trên Google Colab
 
-Bước 1: Mở [google Colab](https://colab.research.google.com)
+Bước 1: Mở [Google Colab](https://colab.research.google.com)
 
 Bước 2: Tải lên file data_preprocessing.ipynb
 
@@ -40,4 +40,4 @@ Bước 3: Tải lên file exploratory_data_analysis.ipynb
 
 - Notebook sẽ tự đọc lại file đã xử lý từ Drive để phân tích và trực quan hóa.
 
-*Ghi chú:* Nếu thư mục /content/drive/MyDrive/PTDLTM_NguHanh/ chưa tồn tại, notebook sẽ tự động tạo.
+*Ghi chú:* Nếu thư mục /content/drive/MyDrive/PTDLTM_NguHanhg/ chưa tồn tại, notebook sẽ tự động tạo.
