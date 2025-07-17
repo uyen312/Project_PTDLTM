@@ -1,6 +1,8 @@
 # Q1 - EDA và xử lý dữ liệu (Exploratory Data Analysis & Data Preprocessing)
 
-### Thư mục này bao gồm 2 notebook tương ứng với yêu cầu 2.1:
+    Thư mục này bao gồm 2 notebook tương ứng với yêu cầu 2.1:
+
+## **Mục tiêu**:
 
 **1. data_preprocessing.ipynb:**
 
