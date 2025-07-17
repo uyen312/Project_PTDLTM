@@ -20,4 +20,4 @@
 
 - Sau khi thực thi, file kết quả (*submission.csv*) sẽ được lưu tại đường dẫn: /content/drive/MyDrive/PTDLTM_NguHanh/
 
-(*) Lưu ý: dữ liệu được sử dụng là dữ liệu sau khi đã tiền xử lý và được lưu trong thư mục /content/drive/MyDrive/PTDLTM_NguHanh/, do đó nếu chưa thực thi file tiền xử lý dữ liệu thì cần đổi đường dẫn file từ gg drive sang kho chứa của github trong phần comment của cell mardown.
+(*) Lưu ý: dữ liệu được sử dụng là dữ liệu sau khi đã tiền xử lý và được lưu trong thư mục /content/drive/MyDrive/PTDLTM_NguHanh/, do đó nếu chưa thực thi file tiền xử lý dữ liệu thì cần đổi đường dẫn file từ Google Drive sang kho chứa của github trong phần comment của cell mardown.
